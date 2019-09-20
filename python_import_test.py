@@ -1,4 +1,4 @@
-from python_script import function
+from library import function
 
 
 function()
