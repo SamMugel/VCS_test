@@ -8,4 +8,6 @@ description
 @author: sam
 """
 
-print('hey')
+
+def function():
+    print('hey')
